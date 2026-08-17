@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# QGIS auxiliary files
+*.aux.xml
+*.qmd
+
+# Large raster kept in Google Drive
+gee_exports/NDVI_Change_2019_2023.tif
+
+# OS files
+Thumbs.db
+.DS_Store
